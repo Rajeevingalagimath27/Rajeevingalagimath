@@ -1,0 +1,7 @@
+Python
+
+Python is a high-level, interpreted programming language known for its simple and readable syntax. It was created by Guido van Rossum and first released in 1991. Python is widely used in many fields such as web development, data science, artificial intelligence, machine learning, automation, and software development.
+
+One of the main advantages of Python is its easy-to-understand syntax, which makes it suitable for beginners as well as professional programmers. Python supports multiple programming paradigms including object-oriented, procedural, and functional programming. It also has a large standard library and many external frameworks that help developers build applications quickly and efficiently.
+
+Due to its flexibility and powerful features, Python has become one of the most popular programming languages in the world and is used by many companies and organizations for building modern applications
